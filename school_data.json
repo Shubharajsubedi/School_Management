@@ -1,0 +1,23 @@
+{
+    "students": [
+        {
+            "name": "Shubharaj Subedi",
+            "age": 23,
+            "student_id": "NP070395",
+            "email": "shubharajsubedi@gmail.com",
+            "roll_no": "1",
+            "grades": {
+                "Science ": "A+"
+            }
+        }
+    ],
+    "teachers": [
+        {
+            "name": "Narendra Sign Dhami",
+            "age": 48,
+            "teacher_id": "NP09836",
+            "email": "narendra@gmail.com",
+            "subject": "Science"
+        }
+    ]
+}
